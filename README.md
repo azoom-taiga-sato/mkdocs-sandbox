@@ -262,6 +262,7 @@ Caused by: java.lang.UnsupportedClassVersionError: org/openjdk/nashorn/api/scrip
 * [mike in github](https://github.com/jimporter/mike)
 * [How does Material for MkDocs fetch the latest git tag (to display it in the navbar)? in github discussion](https://github.com/squidfunk/mkdocs-material/discussions/3439)
 * [Using Git Information](https://mkdocs-macros-plugin.readthedocs.io/en/latest/git_info/)
+* [Github Pagesの公開ページの版管理（MkDocs plugin mike利用）](https://qiita.com/tomoten/items/39b87fc114d8f41b5ebd)
 
 [目次に戻る](#目次)
 
